@@ -1,0 +1,18 @@
+GIT Basic Commands
+
+git init
+
+git status
+
+git add *.txt
+
+git -m "description for file commit/changes"
+
+git log
+
+git remote add origin https://github.com/yourusername/testrepository.git
+
+
+
+
+
